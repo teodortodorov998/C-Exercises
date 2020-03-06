@@ -1,0 +1,11 @@
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\bin\Debug\netcoreapp3.1\shellSort.exe
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\bin\Debug\netcoreapp3.1\shellSort.deps.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\bin\Debug\netcoreapp3.1\shellSort.runtimeconfig.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\bin\Debug\netcoreapp3.1\shellSort.runtimeconfig.dev.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\bin\Debug\netcoreapp3.1\shellSort.dll
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\bin\Debug\netcoreapp3.1\shellSort.pdb
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\obj\Debug\netcoreapp3.1\shellSort.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\obj\Debug\netcoreapp3.1\shellSort.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\obj\Debug\netcoreapp3.1\shellSort.AssemblyInfo.cs
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\obj\Debug\netcoreapp3.1\shellSort.dll
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\shellSort\obj\Debug\netcoreapp3.1\shellSort.pdb

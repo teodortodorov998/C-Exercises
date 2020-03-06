@@ -1,0 +1,10 @@
+C:\Users\teko\source\repos\rightDiagonalSum\obj\Debug\netcoreapp3.1\rightDiagonalSum.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\rightDiagonalSum\obj\Debug\netcoreapp3.1\rightDiagonalSum.AssemblyInfo.cs
+C:\Users\teko\source\repos\rightDiagonalSum\bin\Debug\netcoreapp3.1\rightDiagonalSum.exe
+C:\Users\teko\source\repos\rightDiagonalSum\bin\Debug\netcoreapp3.1\rightDiagonalSum.deps.json
+C:\Users\teko\source\repos\rightDiagonalSum\bin\Debug\netcoreapp3.1\rightDiagonalSum.runtimeconfig.json
+C:\Users\teko\source\repos\rightDiagonalSum\bin\Debug\netcoreapp3.1\rightDiagonalSum.runtimeconfig.dev.json
+C:\Users\teko\source\repos\rightDiagonalSum\bin\Debug\netcoreapp3.1\rightDiagonalSum.dll
+C:\Users\teko\source\repos\rightDiagonalSum\bin\Debug\netcoreapp3.1\rightDiagonalSum.pdb
+C:\Users\teko\source\repos\rightDiagonalSum\obj\Debug\netcoreapp3.1\rightDiagonalSum.dll
+C:\Users\teko\source\repos\rightDiagonalSum\obj\Debug\netcoreapp3.1\rightDiagonalSum.pdb

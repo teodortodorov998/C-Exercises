@@ -1,0 +1,11 @@
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\bin\Debug\netcoreapp3.1\Counting_Sort.exe
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\bin\Debug\netcoreapp3.1\Counting_Sort.deps.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\bin\Debug\netcoreapp3.1\Counting_Sort.runtimeconfig.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\bin\Debug\netcoreapp3.1\Counting_Sort.runtimeconfig.dev.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\bin\Debug\netcoreapp3.1\Counting_Sort.dll
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\bin\Debug\netcoreapp3.1\Counting_Sort.pdb
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\obj\Debug\netcoreapp3.1\Counting_Sort.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\obj\Debug\netcoreapp3.1\Counting_Sort.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\obj\Debug\netcoreapp3.1\Counting_Sort.AssemblyInfo.cs
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\obj\Debug\netcoreapp3.1\Counting_Sort.dll
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\Counting_Sort\obj\Debug\netcoreapp3.1\Counting_Sort.pdb

@@ -1,0 +1,10 @@
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\bubbleSort\bin\Debug\netcoreapp3.1\bubbleSort.exe
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\bubbleSort\bin\Debug\netcoreapp3.1\bubbleSort.deps.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\bubbleSort\bin\Debug\netcoreapp3.1\bubbleSort.runtimeconfig.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\bubbleSort\bin\Debug\netcoreapp3.1\bubbleSort.runtimeconfig.dev.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\bubbleSort\bin\Debug\netcoreapp3.1\bubbleSort.dll
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\bubbleSort\bin\Debug\netcoreapp3.1\bubbleSort.pdb
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\bubbleSort\obj\Debug\netcoreapp3.1\bubbleSort.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\bubbleSort\obj\Debug\netcoreapp3.1\bubbleSort.AssemblyInfo.cs
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\bubbleSort\obj\Debug\netcoreapp3.1\bubbleSort.dll
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\bubbleSort\obj\Debug\netcoreapp3.1\bubbleSort.pdb

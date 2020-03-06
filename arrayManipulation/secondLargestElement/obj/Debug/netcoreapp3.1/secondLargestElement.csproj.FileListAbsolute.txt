@@ -1,0 +1,11 @@
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\secondLargestElement.exe
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\secondLargestElement.deps.json
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\secondLargestElement.runtimeconfig.json
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\secondLargestElement.runtimeconfig.dev.json
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\secondLargestElement.dll
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\secondLargestElement.pdb
+C:\Users\teko\source\repos\secondLargestElement\obj\Debug\netcoreapp3.1\secondLargestElement.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\secondLargestElement\obj\Debug\netcoreapp3.1\secondLargestElement.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\secondLargestElement\obj\Debug\netcoreapp3.1\secondLargestElement.AssemblyInfo.cs
+C:\Users\teko\source\repos\secondLargestElement\obj\Debug\netcoreapp3.1\secondLargestElement.dll
+C:\Users\teko\source\repos\secondLargestElement\obj\Debug\netcoreapp3.1\secondLargestElement.pdb

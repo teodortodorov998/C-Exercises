@@ -1,0 +1,11 @@
+C:\Users\teko\source\repos\transposeOfMatrix\bin\Debug\netcoreapp3.1\transposeOfMatrix.exe
+C:\Users\teko\source\repos\transposeOfMatrix\bin\Debug\netcoreapp3.1\transposeOfMatrix.deps.json
+C:\Users\teko\source\repos\transposeOfMatrix\bin\Debug\netcoreapp3.1\transposeOfMatrix.runtimeconfig.json
+C:\Users\teko\source\repos\transposeOfMatrix\bin\Debug\netcoreapp3.1\transposeOfMatrix.runtimeconfig.dev.json
+C:\Users\teko\source\repos\transposeOfMatrix\bin\Debug\netcoreapp3.1\transposeOfMatrix.dll
+C:\Users\teko\source\repos\transposeOfMatrix\bin\Debug\netcoreapp3.1\transposeOfMatrix.pdb
+C:\Users\teko\source\repos\transposeOfMatrix\obj\Debug\netcoreapp3.1\transposeOfMatrix.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\transposeOfMatrix\obj\Debug\netcoreapp3.1\transposeOfMatrix.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\transposeOfMatrix\obj\Debug\netcoreapp3.1\transposeOfMatrix.AssemblyInfo.cs
+C:\Users\teko\source\repos\transposeOfMatrix\obj\Debug\netcoreapp3.1\transposeOfMatrix.dll
+C:\Users\teko\source\repos\transposeOfMatrix\obj\Debug\netcoreapp3.1\transposeOfMatrix.pdb

@@ -1,0 +1,10 @@
+C:\Users\teko\source\repos\identityMatrix\bin\Debug\netcoreapp3.1\identityMatrix.exe
+C:\Users\teko\source\repos\identityMatrix\bin\Debug\netcoreapp3.1\identityMatrix.deps.json
+C:\Users\teko\source\repos\identityMatrix\bin\Debug\netcoreapp3.1\identityMatrix.runtimeconfig.json
+C:\Users\teko\source\repos\identityMatrix\bin\Debug\netcoreapp3.1\identityMatrix.runtimeconfig.dev.json
+C:\Users\teko\source\repos\identityMatrix\bin\Debug\netcoreapp3.1\identityMatrix.dll
+C:\Users\teko\source\repos\identityMatrix\bin\Debug\netcoreapp3.1\identityMatrix.pdb
+C:\Users\teko\source\repos\identityMatrix\obj\Debug\netcoreapp3.1\identityMatrix.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\identityMatrix\obj\Debug\netcoreapp3.1\identityMatrix.AssemblyInfo.cs
+C:\Users\teko\source\repos\identityMatrix\obj\Debug\netcoreapp3.1\identityMatrix.dll
+C:\Users\teko\source\repos\identityMatrix\obj\Debug\netcoreapp3.1\identityMatrix.pdb

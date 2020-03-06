@@ -1,0 +1,11 @@
+C:\Users\teko\source\repos\diagonalsSum\obj\Debug\netcoreapp3.1\diagonalsSum.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\diagonalsSum\obj\Debug\netcoreapp3.1\diagonalsSum.AssemblyInfo.cs
+C:\Users\teko\source\repos\diagonalsSum\obj\Debug\netcoreapp3.1\diagonalsSum.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\diagonalsSum\bin\Debug\netcoreapp3.1\sumOfDiagonal.exe
+C:\Users\teko\source\repos\diagonalsSum\bin\Debug\netcoreapp3.1\sumOfDiagonal.deps.json
+C:\Users\teko\source\repos\diagonalsSum\bin\Debug\netcoreapp3.1\sumOfDiagonal.runtimeconfig.json
+C:\Users\teko\source\repos\diagonalsSum\bin\Debug\netcoreapp3.1\sumOfDiagonal.runtimeconfig.dev.json
+C:\Users\teko\source\repos\diagonalsSum\bin\Debug\netcoreapp3.1\sumOfDiagonal.dll
+C:\Users\teko\source\repos\diagonalsSum\bin\Debug\netcoreapp3.1\sumOfDiagonal.pdb
+C:\Users\teko\source\repos\diagonalsSum\obj\Debug\netcoreapp3.1\sumOfDiagonal.dll
+C:\Users\teko\source\repos\diagonalsSum\obj\Debug\netcoreapp3.1\sumOfDiagonal.pdb

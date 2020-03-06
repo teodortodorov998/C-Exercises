@@ -1,0 +1,10 @@
+C:\Users\teko\source\repos\matrixEquality\bin\Debug\netcoreapp3.1\matrixEquality.exe
+C:\Users\teko\source\repos\matrixEquality\bin\Debug\netcoreapp3.1\matrixEquality.deps.json
+C:\Users\teko\source\repos\matrixEquality\bin\Debug\netcoreapp3.1\matrixEquality.runtimeconfig.json
+C:\Users\teko\source\repos\matrixEquality\bin\Debug\netcoreapp3.1\matrixEquality.runtimeconfig.dev.json
+C:\Users\teko\source\repos\matrixEquality\bin\Debug\netcoreapp3.1\matrixEquality.dll
+C:\Users\teko\source\repos\matrixEquality\bin\Debug\netcoreapp3.1\matrixEquality.pdb
+C:\Users\teko\source\repos\matrixEquality\obj\Debug\netcoreapp3.1\matrixEquality.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\matrixEquality\obj\Debug\netcoreapp3.1\matrixEquality.AssemblyInfo.cs
+C:\Users\teko\source\repos\matrixEquality\obj\Debug\netcoreapp3.1\matrixEquality.dll
+C:\Users\teko\source\repos\matrixEquality\obj\Debug\netcoreapp3.1\matrixEquality.pdb

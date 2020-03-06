@@ -1,0 +1,10 @@
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\teko\source\repos\SortingAlgorithms\shellSort\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb

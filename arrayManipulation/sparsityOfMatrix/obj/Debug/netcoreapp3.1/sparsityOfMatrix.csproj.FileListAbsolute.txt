@@ -1,0 +1,10 @@
+C:\Users\teko\source\repos\sparsityOfMatrix\bin\Debug\netcoreapp3.1\sparsityOfMatrix.exe
+C:\Users\teko\source\repos\sparsityOfMatrix\bin\Debug\netcoreapp3.1\sparsityOfMatrix.deps.json
+C:\Users\teko\source\repos\sparsityOfMatrix\bin\Debug\netcoreapp3.1\sparsityOfMatrix.runtimeconfig.json
+C:\Users\teko\source\repos\sparsityOfMatrix\bin\Debug\netcoreapp3.1\sparsityOfMatrix.runtimeconfig.dev.json
+C:\Users\teko\source\repos\sparsityOfMatrix\bin\Debug\netcoreapp3.1\sparsityOfMatrix.dll
+C:\Users\teko\source\repos\sparsityOfMatrix\bin\Debug\netcoreapp3.1\sparsityOfMatrix.pdb
+C:\Users\teko\source\repos\sparsityOfMatrix\obj\Debug\netcoreapp3.1\sparsityOfMatrix.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\sparsityOfMatrix\obj\Debug\netcoreapp3.1\sparsityOfMatrix.AssemblyInfo.cs
+C:\Users\teko\source\repos\sparsityOfMatrix\obj\Debug\netcoreapp3.1\sparsityOfMatrix.dll
+C:\Users\teko\source\repos\sparsityOfMatrix\obj\Debug\netcoreapp3.1\sparsityOfMatrix.pdb

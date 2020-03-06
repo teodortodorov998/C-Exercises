@@ -1,0 +1,11 @@
+C:\Users\teko\source\repos\arrayShifting\bin\Debug\netcoreapp3.1\arrayShifting.exe
+C:\Users\teko\source\repos\arrayShifting\bin\Debug\netcoreapp3.1\arrayShifting.deps.json
+C:\Users\teko\source\repos\arrayShifting\bin\Debug\netcoreapp3.1\arrayShifting.runtimeconfig.json
+C:\Users\teko\source\repos\arrayShifting\bin\Debug\netcoreapp3.1\arrayShifting.runtimeconfig.dev.json
+C:\Users\teko\source\repos\arrayShifting\bin\Debug\netcoreapp3.1\arrayShifting.dll
+C:\Users\teko\source\repos\arrayShifting\bin\Debug\netcoreapp3.1\arrayShifting.pdb
+C:\Users\teko\source\repos\arrayShifting\obj\Debug\netcoreapp3.1\arrayShifting.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\arrayShifting\obj\Debug\netcoreapp3.1\arrayShifting.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\arrayShifting\obj\Debug\netcoreapp3.1\arrayShifting.AssemblyInfo.cs
+C:\Users\teko\source\repos\arrayShifting\obj\Debug\netcoreapp3.1\arrayShifting.dll
+C:\Users\teko\source\repos\arrayShifting\obj\Debug\netcoreapp3.1\arrayShifting.pdb

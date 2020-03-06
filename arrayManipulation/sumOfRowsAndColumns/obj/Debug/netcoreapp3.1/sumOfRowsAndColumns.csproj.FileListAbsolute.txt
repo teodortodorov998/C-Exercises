@@ -1,0 +1,11 @@
+C:\Users\teko\source\repos\sumOfRowsAndColumns\bin\Debug\netcoreapp3.1\sumOfRowsAndColumns.exe
+C:\Users\teko\source\repos\sumOfRowsAndColumns\bin\Debug\netcoreapp3.1\sumOfRowsAndColumns.deps.json
+C:\Users\teko\source\repos\sumOfRowsAndColumns\bin\Debug\netcoreapp3.1\sumOfRowsAndColumns.runtimeconfig.json
+C:\Users\teko\source\repos\sumOfRowsAndColumns\bin\Debug\netcoreapp3.1\sumOfRowsAndColumns.runtimeconfig.dev.json
+C:\Users\teko\source\repos\sumOfRowsAndColumns\bin\Debug\netcoreapp3.1\sumOfRowsAndColumns.dll
+C:\Users\teko\source\repos\sumOfRowsAndColumns\bin\Debug\netcoreapp3.1\sumOfRowsAndColumns.pdb
+C:\Users\teko\source\repos\sumOfRowsAndColumns\obj\Debug\netcoreapp3.1\sumOfRowsAndColumns.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\sumOfRowsAndColumns\obj\Debug\netcoreapp3.1\sumOfRowsAndColumns.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\sumOfRowsAndColumns\obj\Debug\netcoreapp3.1\sumOfRowsAndColumns.AssemblyInfo.cs
+C:\Users\teko\source\repos\sumOfRowsAndColumns\obj\Debug\netcoreapp3.1\sumOfRowsAndColumns.dll
+C:\Users\teko\source\repos\sumOfRowsAndColumns\obj\Debug\netcoreapp3.1\sumOfRowsAndColumns.pdb

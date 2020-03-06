@@ -1,0 +1,11 @@
+C:\Users\teko\source\repos\secondLargestElement\obj\Debug\netcoreapp3.1\multiplication.csprojAssemblyReference.cache
+C:\Users\teko\source\repos\secondLargestElement\obj\Debug\netcoreapp3.1\multiplication.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\secondLargestElement\obj\Debug\netcoreapp3.1\multiplication.AssemblyInfo.cs
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\multiplication.exe
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\multiplication.deps.json
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\multiplication.runtimeconfig.json
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\multiplication.runtimeconfig.dev.json
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\multiplication.dll
+C:\Users\teko\source\repos\secondLargestElement\bin\Debug\netcoreapp3.1\multiplication.pdb
+C:\Users\teko\source\repos\secondLargestElement\obj\Debug\netcoreapp3.1\multiplication.dll
+C:\Users\teko\source\repos\secondLargestElement\obj\Debug\netcoreapp3.1\multiplication.pdb

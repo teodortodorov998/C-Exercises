@@ -1,0 +1,10 @@
+C:\Users\teko\source\repos\findingDeterminant\bin\Debug\netcoreapp3.1\findingDeterminant.exe
+C:\Users\teko\source\repos\findingDeterminant\bin\Debug\netcoreapp3.1\findingDeterminant.deps.json
+C:\Users\teko\source\repos\findingDeterminant\bin\Debug\netcoreapp3.1\findingDeterminant.runtimeconfig.json
+C:\Users\teko\source\repos\findingDeterminant\bin\Debug\netcoreapp3.1\findingDeterminant.runtimeconfig.dev.json
+C:\Users\teko\source\repos\findingDeterminant\bin\Debug\netcoreapp3.1\findingDeterminant.dll
+C:\Users\teko\source\repos\findingDeterminant\bin\Debug\netcoreapp3.1\findingDeterminant.pdb
+C:\Users\teko\source\repos\findingDeterminant\obj\Debug\netcoreapp3.1\findingDeterminant.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\findingDeterminant\obj\Debug\netcoreapp3.1\findingDeterminant.AssemblyInfo.cs
+C:\Users\teko\source\repos\findingDeterminant\obj\Debug\netcoreapp3.1\findingDeterminant.dll
+C:\Users\teko\source\repos\findingDeterminant\obj\Debug\netcoreapp3.1\findingDeterminant.pdb

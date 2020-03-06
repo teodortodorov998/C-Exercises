@@ -1,0 +1,10 @@
+C:\Users\teko\source\repos\lowerTriangular\bin\Debug\netcoreapp3.1\lowerTriangular.exe
+C:\Users\teko\source\repos\lowerTriangular\bin\Debug\netcoreapp3.1\lowerTriangular.deps.json
+C:\Users\teko\source\repos\lowerTriangular\bin\Debug\netcoreapp3.1\lowerTriangular.runtimeconfig.json
+C:\Users\teko\source\repos\lowerTriangular\bin\Debug\netcoreapp3.1\lowerTriangular.runtimeconfig.dev.json
+C:\Users\teko\source\repos\lowerTriangular\bin\Debug\netcoreapp3.1\lowerTriangular.dll
+C:\Users\teko\source\repos\lowerTriangular\bin\Debug\netcoreapp3.1\lowerTriangular.pdb
+C:\Users\teko\source\repos\lowerTriangular\obj\Debug\netcoreapp3.1\lowerTriangular.AssemblyInfoInputs.cache
+C:\Users\teko\source\repos\lowerTriangular\obj\Debug\netcoreapp3.1\lowerTriangular.AssemblyInfo.cs
+C:\Users\teko\source\repos\lowerTriangular\obj\Debug\netcoreapp3.1\lowerTriangular.dll
+C:\Users\teko\source\repos\lowerTriangular\obj\Debug\netcoreapp3.1\lowerTriangular.pdb
